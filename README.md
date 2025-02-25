@@ -10,7 +10,7 @@ python main.py
 Pour générer la documentation du projet, utilisez la commande suivante :
 pydoc -w Abonnement Acces Borne_Ticket Camera Client Contrat Panneau_Affichage Parking Place Placement Service Teleporteur Voiture
 
-#Auteurs :
+# Auteurs :
 <ul>
   <li>Oumou Tabara Diallo</li>
   <li>Youssouf Ali Rozi</li>
